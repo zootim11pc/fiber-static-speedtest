@@ -1,0 +1,10 @@
+# dont store vendor files
+vendor
+
+# editor configuration
+.vscode
+**/.idea
+
+# OS generated files
+.DS_Store
+.DS_Store?
